@@ -4,14 +4,14 @@ const reviews = [
         id: 1,
         name: "Susan Smith",
         job: "Web Developer",
-        img: "",
+        img: "images\susan.jpg",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
     },
     {
         id: 2,
         name: "Juan Pachon",
         job: "Web Designer",
-        img: "",
+        img: "images\Juan.jpg",
         text: "Arcu bibendum at varius vel pharetra. Nullam ac tortor vitae purus faucibus. Purus gravida quis blandit turpis cursus in. Donec ac odio tempor orci dapibus ultrices in iaculis. Turpis nunc eget lorem dolor sed viverra. Sit amet facilisis magna etiam tempor.",
     },
     {
