@@ -13,3 +13,4 @@ As a user, I want to be able to select a button of my choice so that I can scrol
 HTML, CSS, Vanilla Javascript, arrays, DOMContentLoaded, document.querySelector(), addEventListener(), document.body.style, Math.floor(), Math.random(), array.length, objects, & textContent.
 
 ## Screenshots
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/76802722/156461325-1b308230-368a-4016-8a75-401de1b71f3a.gif)
