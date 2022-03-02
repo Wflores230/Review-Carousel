@@ -82,13 +82,13 @@ h4 {
 }
 
 h1 {
-  font-size: 3rem;
+  font-size: 3rem
 }
 
 h2 {
   font-size: 2rem;
-
 }
+
 h3 {
   font-size: 1.25rem;
 }
@@ -286,6 +286,13 @@ main {
   margin: 0 0.5rem;
   transition: var(--transition);
   cursor: pointer;
+  transition: all 0.3s linear;
+  border: 2px solid black;
+  cursor: pointer;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  border-radius: 0.25rem;
+  font-size: 1rem;
+  padding: 0.75rem 1.25rem;
 }
 
 .prev-btn:hover,
